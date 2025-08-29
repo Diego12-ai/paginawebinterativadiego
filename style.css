@@ -9,6 +9,14 @@ header{
    padding: 20px;
    font-size: 32px;
    color: rgb(178, 228, 42);
-   
+}
+section {
+   background: rgb(112, 12, 211) 
+   padding-botton: 80px;
+   pdding-top: 80px;
+   display: flex;
+   justify-content: center
+}
+.chamada-texto{margin-right: 5%;
 }
 
